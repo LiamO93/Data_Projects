@@ -1,6 +1,4 @@
 # Heading 
 
-Description
+Description: This depository is used to store data projects I've completed.
 
-## Sub-Heading
-Testing 123
